@@ -1,1 +1,1 @@
-ANGO:0.tcp.ap.ngrok.io:13849:0:0
+ANGO:0.tcp.jp.ngrok.io:14050:0:0
